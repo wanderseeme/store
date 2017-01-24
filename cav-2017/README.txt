@@ -1,4 +1,4 @@
-## Quick Start
+## Review instructions for Ceagle+
 
 1. Ceagle+ is a command line tool and tested on platform:
 
@@ -20,4 +20,11 @@
 3. Documentation for reviewing can be downloaded at:
 
 	```
+	https://github.com/wanderseeme/store/raw/master/cav-2017/manual.pdf
+	```
+	
+	or
+
+	```
+	http://sts.thss.tsinghua.edu.cn/tool/data/cav-2017/manual.pdf
 	```
