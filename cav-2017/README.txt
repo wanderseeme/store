@@ -9,7 +9,7 @@
 2. Ceagle+ is provided to be reviewed in a Virtual Box virtual machine (.ova), which can be downloaded at:
 
 	```
-	https://mega.nz/#!1FEWyb4R
+	https://mega.nz/#!1FEWyb4R!q4kyTGio2Vdr0Ik9LiXF9OlOzFkTityG1Nolixtn1fI
 	```
 
 	or
