@@ -9,12 +9,13 @@
 2. Ceagle+ is provided to be reviewed in a Virtual Box virtual machine (.ova), which can be downloaded at:
 
 	```
+	https://mega.nz/#!1FEWyb4R
 	```
 
 	or
 
 	```
-	http://sts.thss.tsinghua.edu.cn/tool/data/cav-2017/ceagle-plus-vm.ova
+	https://drive.google.com/open?id=0B9chzBIL_bmYS3E1ekVUZzRjQWs
 	```
 
 3. Documentation for reviewing can be downloaded at:
